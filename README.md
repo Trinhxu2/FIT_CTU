@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ## Motivation
-To share code [I](https://www.bit.ly/2Kudpj5) have written during [my](https://www.bit.ly/2Kudpj5) studies at [FIT CTU](https://en.wikipedia.org/wiki/Faculty_of_Information_Technology,_Czech_Technical_University_in_Prague). Hopefully, it will help someone.<br>If you found this repository interesting or useful don't forget to leave a star.
+To share code I have written during my studies at [FIT CTU](https://en.wikipedia.org/wiki/Faculty_of_Information_Technology,_Czech_Technical_University_in_Prague). Hopefully, it will help someone.<br>If you found this repository interesting or useful don't forget to leave a star.
 
 ## Table of content
 * ### 1st semester
@@ -40,4 +40,5 @@ To share code [I](https://www.bit.ly/2Kudpj5) have written during [my](https://w
 I strongly recommend against copying the code from this repository. The goal of university education is to acquire knowledge and to learn to think. To copy the code would not only harm you in your development as a person, but it could also prevent you from successfully finishing these courses as most of them have anti-cheating mechanism in use.
 
 ## Links
-If you have any questions about [FIT CTU](https://fit.cvut.cz/en) or any questions in general. Feel free to leave [me](https://www.bit.ly/2tHoAeN) a message.<br>You can also follow [me](https://www.bit.ly/2Kvxh2S), or [FIT](https://www.instagram.com/fit_ctu/) on social media.
+If you have any questions about [FIT CTU](https://fit.cvut.cz/en) or any questions in general. Feel free to leave me a message.<br>
+Feel free to check my [instagram](instagram.com/travelstrawberry) or my [Youtube channel](https://www.youtube.com/channel/UCMJOPO1K9pshhtATQG3JeDQ).
