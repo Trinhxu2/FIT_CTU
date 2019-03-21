@@ -41,4 +41,4 @@ I strongly recommend against copying the code from this repository. The goal of 
 
 ## Links
 If you have any questions about [FIT CTU](https://fit.cvut.cz/en) or any questions in general. Feel free to leave me a message.<br>
-Here is my [LinkedIn](https://www.linkedin.com/in/pjahoda/). Also, feel free to check my [instagram](https://www.instagram.com/travelstrawberry) or my [Youtube channel](https://www.youtube.com/channel/UCMJOPO1K9pshhtATQG3JeDQ).
+Here is my [LinkedIn](https://www.linkedin.com/in/pjahoda/). Also, feel free to check my [instagram](https://bit.ly/travel-strawberry-insta) or my [Youtube channel](https://bit.ly/travel-strawberry-yt).
